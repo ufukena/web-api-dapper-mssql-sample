@@ -1,1 +1,1 @@
-# aspnetcore-web-api-dapper-mssql-sample
+web-api-dapper-mssql-sample
